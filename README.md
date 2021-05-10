@@ -606,9 +606,7 @@ Travel Guide App UI Kit ![Mobile](https://github.com/LisaDziuba/Awesome-Design-T
 
 <article id="addendum">
 
-### Addendum (Reference & Inspiration)
 
-Awesome Design UI Kits are curated by [Lisa Dziuba](https://twitter.com/LisaDziuba), [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) & [Vladimir Berezovsky](https://twitter.com/berezovskycom) from Flawless team. If you found some great design UI Kit, please [suggest it](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md). And thanks for making this project awesome :)
 
 </article>
 </main>
